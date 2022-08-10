@@ -20,7 +20,7 @@ body{
 }
 
 .left-side{
-    background-image: url(/Twitter/left-back-img.png);
+    background-image: url(Twitter/left-back-img.png);
     width: 65%;
     height: 773px;
     background-size: contain;
