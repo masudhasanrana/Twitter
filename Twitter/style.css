@@ -20,11 +20,7 @@ body{
 }
 
 .left-side{
-    background-image: url(./Twitter/left-back-img.png);
-    width: 60%;
-    height: 775px;
-    background-size: contain;
-    background-position: left;
+    
     text-align: left;
 }
 .left-logo{
