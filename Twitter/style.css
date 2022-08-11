@@ -20,15 +20,9 @@ body{
 }
 
 .left-side{
-    
     text-align: left;
 }
-.left-logo{
-position: absolute;
-top: 0;
-left: 0;
 
-}
 .right-side{
     width: 50%;
     text-align: left;
@@ -68,8 +62,7 @@ left: 0;
     display: inline;
     font-size: 18px;
     font-weight: 700;
-    border-color: rgb(190, 190, 190);
-    border-style: solid;
+    border:2px;
     transition: .15s;
 }
 .google-button:hover {
@@ -87,12 +80,10 @@ left: 0;
     width: 350px;
     height: 40px;
     border-radius: 18px;
-    height: 40px;
     display: inline;
     font-size: 18px;
     font-weight: 700;
-    border-color: rgb(190, 190, 190);
-    border-style: solid;
+    border:2px;
     transition: .15s;
 }
 
@@ -110,13 +101,13 @@ left: 0;
 .left-part{
     height: 1px;
     background-color:rgb(190, 190, 190);
-    width:155px
+    width:155px;
 
 }
 .right-part{
     height: 1px;
     background-color:rgb(190, 190, 190);
-    width:155px
+    width:155px;
     
     }
 
@@ -171,8 +162,7 @@ left: 0;
     font-size: 18px;
     color: rgb(29, 155, 240);
     font-weight: 700;
-    border-color: rgb(190, 190, 190);
-    border-style: solid;
+    border:2px;
     transition: .15s;
 }
 .signin-button:hover{
