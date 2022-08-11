@@ -21,17 +21,11 @@ body{
 
 .left-side{
     background-image: url(./Twitter/left-back-img.png);
-    width: 65%;
-    height: 773px;
+    width: 60%;
+    height: 775px;
     background-size: contain;
     background-position: left;
     text-align: left;
-    position: relative;
-    z-index: -1;
-    opacity: 1;
-    display: flex;
-    flex-direction: column;
-
 }
 .left-logo{
 position: absolute;
